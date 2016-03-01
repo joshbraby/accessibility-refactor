@@ -78,7 +78,7 @@ h1 {
 h2 {
   margin-top: 5rem;
   color: #800000;
-  font-weight: none;
+  font-weight: 100;
   text-transform: uppercase;
   letter-spacing: .3rem;
 }

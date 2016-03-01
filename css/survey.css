@@ -4,21 +4,28 @@
   width: 60%;
   padding: 10px;
 }
-
 form {
   margin: 0 auto;
   text-align: left;
   display: inline-block;
 }
+form p {
+  width: 30rem;
+}
 
+.newsletter label {
+  width: 10rem;
+}
 .container{
   text-align: center;
 }
 .newsletter{
   text-align: right;
-
 }
-
+#hint {
+  font-size: 0.75rem;
+  color: red;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 840px) {
